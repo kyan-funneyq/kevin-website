@@ -2,7 +2,7 @@ export const JOBS = [
   {
     title: 'Senior Software Engineer',
     company: 'Afterpay / Square / Block / Cash App',
-    period: 'Jan 2022 – Present',
+    period: 'Jan 2022 – Jul 2026',
   },
   {
     title: 'Senior Automation Engineer',
@@ -24,14 +24,18 @@ export const JOBS = [
 export const SKILLS: Record<string, string[]> = {
   Languages: ['JavaScript', 'TypeScript', 'Python', 'Java', 'Kotlin', 'Bash', 'React', 'Node.js'],
   'Cloud & Infra': ['AWS (EventBridge, SQS, S3, RDS, VPC, IAM, KMS)', 'Terraform', 'Docker', 'Kubernetes', 'Helm'],
-  Observability: ['Datadog', 'New Relic', 'CloudWatch', 'Sentry', 'PagerDuty', 'SLI/SLOs'],
+  Observability: ['OpenTelemetry', 'Grafana', 'Datadog', 'New Relic', 'CloudWatch', 'Sentry', 'PagerDuty', 'SLI/SLOs'],
   'CI/CD': ['Buildkite', 'Jenkins', 'GitHub Actions'],
   'Test Automation': ['Playwright', 'Cypress', 'Selenium', 'Vitest', 'Jest'],
-  'AI & Automation': ['AI Agents', 'MCP', 'Claude Code', 'Codex'],
+  'AI & Automation': [
+    'AI Agents', 'Multi-Agent Orchestration', 'LangChain', 'LangGraph', 'LangSmith', 'RAG', 'ChromaDB',
+    'Tool Calling', 'OpenAI API', 'Anthropic API', 'Codex SDK', 'MCP', 'Agent Skills', 'Claude Code', 'Codex',
+  ],
 }
 
 export const CERTIFICATIONS = [
   { name: 'AWS Certified Solutions Architect – Professional', issuer: 'Amazon Web Services' },
+  { name: 'AWS Certified Generative AI Developer – Professional', issuer: 'Amazon Web Services' },
   { name: 'AWS Certified AI Practitioner', issuer: 'Amazon Web Services' },
   { name: 'CompTIA Cloud Essentials+', issuer: 'CompTIA' },
   { name: 'Certified ISTQB Test Analyst', issuer: 'ISTQB' },

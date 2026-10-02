@@ -17,7 +17,7 @@ export const HOBBIES = [
   {
     emoji: '🏓',
     title: 'Table Tennis',
-    description: 'Fast-paced fun — always up for a match.',
+    description: 'Fast-paced fun, always up for a match.',
   },
   {
     emoji: '🎾',

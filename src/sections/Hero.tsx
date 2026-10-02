@@ -14,7 +14,7 @@ export default function Hero() {
           I'm Qi Yan (Kevin Yan).
         </h1>
         <p className="text-xl md:text-2xl text-muted dark:text-gray-400 max-w-2xl mb-10 leading-relaxed">
-          Senior Software Engineer building reliable, scalable systems — with a focus on AI and intelligent automation. Based in Melbourne, Australia.
+          Senior Software Engineer building reliable, scalable systems, with a focus on AI and intelligent automation. Based in Melbourne, Australia.
         </p>
         <div className="flex items-center gap-4">
           <a

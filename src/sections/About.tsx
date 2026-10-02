@@ -8,15 +8,16 @@ export default function About() {
       <div className="grid md:grid-cols-3 gap-12 items-start">
         <div className="md:col-span-2 space-y-5 text-lg text-muted dark:text-gray-400 leading-relaxed">
           <p>
-            I'm a Software Engineer at Afterpay/Cash App, working on the web platform for
-            Afterpay and Cash App. I enjoy building reliable systems and solving problems
+            I'm a Senior Software Engineer. Most recently I spent four and a half years at
+            Afterpay/Cash App (Block), working on the web platform for Afterpay and Cash App. I enjoy building reliable systems and solving problems
             through thoughtful design.
           </p>
           <p>
             I started my career in QA across utilities, retail, and consulting, and later
             transitioned into software engineering. That background shapes how I work
-            today — I care deeply about reliability, quality, and building systems that
-            hold up in production.
+            today. I care deeply about reliability, quality, and observability. I build
+            systems that hold up in production and instrument them with OpenTelemetry
+            and Grafana so issues surface before users notice.
           </p>
           <p>
             Outside of work, I like building AI-powered applications (RAG, LLM tooling)
