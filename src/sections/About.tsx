@@ -15,9 +15,7 @@ export default function About() {
           <p>
             I started my career in QA across utilities, retail, and consulting, and later
             transitioned into software engineering. That background shapes how I work
-            today. I care deeply about reliability, quality, and observability. I build
-            systems that hold up in production and instrument them with OpenTelemetry
-            and Grafana so issues surface before users notice.
+            today. I care deeply about reliability, quality, and observability.
           </p>
           <p>
             Outside of work, I like building AI-powered applications (RAG, LLM tooling)
